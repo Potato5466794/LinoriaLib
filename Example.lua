@@ -1,4 +1,4 @@
--- New example script written by wally
+-- New example script written by wallyh
 -- You can suggest changes with a pull request or something
 
 local repo = 'https://raw.githubusercontent.com/mstudio45/LinoriaLib/main/'
